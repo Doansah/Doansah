@@ -1,3 +1,5 @@
+
+
 ## Hey 👋🏾
 
 My name is Dillon, and I’m a Computer Science student based in Towson, Maryland. I’m passionate about robust building backend systems and writing articles to help other CS students in their coding journey!
@@ -9,10 +11,13 @@ My name is Dillon, and I’m a Computer Science student based in Towson, Marylan
 
 ## More About Me
 - 🔭 I’m currently working on **Amene** — an AI-powered learning tool that generates Knowledge Maps to help users understand and connect complex topics.
-- 🌱 I’m currently learning **Embabel**, a Java agent framework that integrates AI models into traditional object-oriented code.
+- 🌱 I'm currently on an embedded kick. I'm making games on my ESP32 right now!
 
 
+https://github.com/user-attachments/assets/a0500bb4-27ee-4f82-bc60-7504d97d937b
 
+
+ 
 [![Foo](https://github.com/user-attachments/assets/8019e38f-6a78-4658-a659-beb6b319594c)](https://medium.com/@dillondoa)
 
 ## Favorite Tools & Tech
