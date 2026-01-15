@@ -1,7 +1,5 @@
 
 
-## Wassup!
-
 My name is Dillon, and I’m a Computer Science student based in Towson, Maryland. And I like coding. 
 
  ## What I'm Doing Right Now 
